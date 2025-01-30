@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ROOTFS_DIR=/home/username
+ROOTFS_DIR=/project/workspace
 export PATH=$PATH:~/.local/usr/bin
 
 max_retries=50
